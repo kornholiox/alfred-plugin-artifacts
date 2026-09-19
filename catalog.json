@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "keyId": "production-2026",
+  "signature": "NIetgpSBC0SQe8FH7jeNPlVqBDD1tMEP95uvnofvb9MnP8OPUP-Tu2BIPF4jmdUCIpo2S1og7MYd6MmQXbyEDg",
+  "catalog": {
+    "schemaVersion": 1,
+    "plugins": [
+      {
+        "id": "blender",
+        "name": "blender-mcp",
+        "repository": "https://github.com/kornholiox/blender-mcp",
+        "distribution": {
+          "kind": "artifact",
+          "digest": "6c51d47cf414116be996da8af48a8a90c2d0b58e928b6ff6d9716cc0d152a9ed",
+          "keyId": "production-2026",
+          "signature": "nqKnoWITHZZX-DqIR17ONVmoAPylkAmOiR6l43QZKVBoQROMm_O6HffiDDdm2P77esyifmic_PKpRAxOjuoqDA"
+        }
+      },
+      {
+        "id": "gmail",
+        "name": "gmail",
+        "repository": "https://github.com/cursor/plugins/tree/main/third_party/gmail",
+        "distribution": {
+          "kind": "artifact",
+          "digest": "e4dd7a83eacdf3777749ecd8c9378a04086e9e3ce0cd87907c2060fc77101480",
+          "keyId": "production-2026",
+          "signature": "5xk6ck-QJylZrx4cM89iX92zhUu1YqI4vkoRuJXdIAWEmkAWhkrWskgPMbKNT_ULQTiAQdDpVv7NyxhiBGEwBQ"
+        }
+      },
+      {
+        "id": "google-drive",
+        "name": "google-drive",
+        "repository": "https://github.com/cursor/plugins/tree/main/third_party/google-drive",
+        "distribution": {
+          "kind": "artifact",
+          "digest": "1b7eb86a7322b79bbaa85d71832d567deda71288652ab86b8026b61cc6547928",
+          "keyId": "production-2026",
+          "signature": "BCxA6LBUVGKPEckTKAkEbbWWfXYGdWGvu9uEI8-xxPBhqRjUMAD3ya6lj97OSl2KTKc-056G8oebdPCuzE1MBA"
+        }
+      },
+      {
+        "id": "flow-production-tracking",
+        "name": "shotgrid-mcp",
+        "repository": "https://github.com/kornholiox/shotgrid-mcp",
+        "distribution": {
+          "kind": "artifact",
+          "digest": "e01850b555cdb652e8bb8ed06337c56220abb202a6975a8da4a6243660188f28",
+          "keyId": "production-2026",
+          "signature": "qvpm0uzOcVdPdi8RX076lFf78PkIpNdVkaOExOlCTCGLZJZfTbeKeh-sVAIhSTtP6MvhWk-dD9AdXiAdkN-_Cw"
+        }
+      }
+    ]
+  }
+}
