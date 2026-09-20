@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "keyId": "unreal-2026",
-  "signature": "6cv2lIcN7vaideSEXfjqlO0Kkg2uwqe5CisHk7dFJIAhuLyY16T29YMbFaIC5sdAB02iZ7yMOeOUiQNEvQ73DA",
+  "signature": "3R31UR3uFOiXcx4pUUP5x6khs1RfzMeTBSVkOqk2kRUVQjKg-oLbU3se10SVyQte6ZLP8ItsRqbvznbHshP8BQ",
   "catalog": {
     "schemaVersion": 1,
     "plugins": [
@@ -58,6 +58,17 @@
           "digest": "1cd21cf577467c231f2ebe89b984ab9267ea0076854bc003e8655c69c9ad3609",
           "keyId": "unreal-2026",
           "signature": "6AT17f9w5ROx_VnAO5IOtjMtqRJBgZNTQd28GCLFTb_qiCjCn5NZxhgmH54t0qHjiJ6YkhAUzyuGufsbZjHFBQ"
+        }
+      },
+      {
+        "id": "google-sheets",
+        "name": "google-sheets",
+        "repository": "https://github.com/kornholiox/alfred/tree/main/plugins/google-sheets",
+        "distribution": {
+          "kind": "artifact",
+          "digest": "7708b5019c4a8412c92de90b68177fc3943904182a997125881e1f4128f3a309",
+          "keyId": "unreal-2026",
+          "signature": "o5B_96jcifr9LRz0RMKMWNX37c_OqMiScGc7KMhIM7aFBf8KaJaPYo1ri23Vuo9Hvtu3rFDD9HzWbW50sRybAA"
         }
       },
       {
