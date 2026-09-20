@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "keyId": "unreal-2026",
-  "signature": "Ob3ZvnNPaSz_DB5VMBoTE8jh9Xd_5OH-hz-OIV8mWXGUDfF9wCNBkGFQKdjIRDZQRi7QSLjSF3UJAo6iF-8kAw",
+  "signature": "G5omWVMC93GSl7mNAoxxnqsZBzeeclpEascyfItCH5clXcf6C5fdznjoHVrXTtdj1Jan1fxyd7JtGsf9nHQFCg",
   "catalog": {
     "schemaVersion": 1,
     "plugins": [
@@ -11,9 +11,9 @@
         "repository": "https://github.com/kornholiox/unreal-mcp",
         "distribution": {
           "kind": "artifact",
-          "digest": "654ecb5f1ee07f59267223914333d273444a5a7121af1cd0993482348c1e5f9d",
+          "digest": "80c2bf0ff70223fe4e275540cb16c4941c7f7506574b781904a50637b2291566",
           "keyId": "unreal-2026",
-          "signature": "zeKSk7vJx1IHsERLjsPqn_MnwJJdSEt_go-7gb8BeaeF0fIGcUCnr4aCWjFEIhk8Ug-Zc2bKQHY6MYm7DeWdBA"
+          "signature": "vEA0JY-NL6FE1Lvq3rLW8S0nItoPH0SqzIxHoraMhIy7HZVKYlKhM4zD4toAba2_h2V_j5v10Oy9YW-wnC5kAw"
         }
       },
       {
