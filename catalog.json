@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "keyId": "unreal-2026",
-  "signature": "G5omWVMC93GSl7mNAoxxnqsZBzeeclpEascyfItCH5clXcf6C5fdznjoHVrXTtdj1Jan1fxyd7JtGsf9nHQFCg",
+  "signature": "6cv2lIcN7vaideSEXfjqlO0Kkg2uwqe5CisHk7dFJIAhuLyY16T29YMbFaIC5sdAB02iZ7yMOeOUiQNEvQ73DA",
   "catalog": {
     "schemaVersion": 1,
     "plugins": [
@@ -47,6 +47,17 @@
           "digest": "1b7eb86a7322b79bbaa85d71832d567deda71288652ab86b8026b61cc6547928",
           "keyId": "production-2026",
           "signature": "BCxA6LBUVGKPEckTKAkEbbWWfXYGdWGvu9uEI8-xxPBhqRjUMAD3ya6lj97OSl2KTKc-056G8oebdPCuzE1MBA"
+        }
+      },
+      {
+        "id": "google-calendar",
+        "name": "google-calendar",
+        "repository": "https://github.com/cursor/plugins/tree/main/third_party/google-calendar",
+        "distribution": {
+          "kind": "artifact",
+          "digest": "1cd21cf577467c231f2ebe89b984ab9267ea0076854bc003e8655c69c9ad3609",
+          "keyId": "unreal-2026",
+          "signature": "6AT17f9w5ROx_VnAO5IOtjMtqRJBgZNTQd28GCLFTb_qiCjCn5NZxhgmH54t0qHjiJ6YkhAUzyuGufsbZjHFBQ"
         }
       },
       {
