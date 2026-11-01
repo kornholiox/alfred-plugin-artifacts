@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "keyId": "production-2026",
-  "signature": "wic-shXBtIf8fhmW12EIQ-M5YQcuutLBrRdLtpVEUguhr6PkCneydjdq3AAElNgLp4iphVMPDFQCp4A6P3zABg",
+  "signature": "JY8kYbyhYwyVvqsgEUJ9JHiT0gMp1Eor9qyHIoPpcCLo2TvgEGbfvTKpt2DrBLsYXibzm5QaQzlhygj2XkxsAQ",
   "catalog": {
     "schemaVersion": 1,
     "plugins": [
@@ -22,9 +22,9 @@
         "repository": "https://github.com/kornholiox/blender-mcp",
         "distribution": {
           "kind": "artifact",
-          "digest": "6c51d47cf414116be996da8af48a8a90c2d0b58e928b6ff6d9716cc0d152a9ed",
+          "digest": "f3acca6aaf81f0a733df547baca2e20a9cd540c824a4e7e872dbebaf5ebe15ff",
           "keyId": "production-2026",
-          "signature": "nqKnoWITHZZX-DqIR17ONVmoAPylkAmOiR6l43QZKVBoQROMm_O6HffiDDdm2P77esyifmic_PKpRAxOjuoqDA"
+          "signature": "LkPrvRPQATZLHFSEL9el1-GcQDkOBcpJtCA8MhJBWp9jFwQXI-S7wEwFwakPfAxzOm08J3N2iE6U7_k_EcAuBQ"
         }
       },
       {
