@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "keyId": "unreal-2026",
-  "signature": "3R31UR3uFOiXcx4pUUP5x6khs1RfzMeTBSVkOqk2kRUVQjKg-oLbU3se10SVyQte6ZLP8ItsRqbvznbHshP8BQ",
+  "keyId": "production-2026",
+  "signature": "wUpwM_nf1o97l7r0rQ0i0QsMIvIYyVPqjRs01Pbr5qQXun98wOQmjKsogntBzsDYrptyjI9XU0hSe5hkAMwAAw",
   "catalog": {
     "schemaVersion": 1,
     "plugins": [
@@ -80,6 +80,17 @@
           "digest": "e01850b555cdb652e8bb8ed06337c56220abb202a6975a8da4a6243660188f28",
           "keyId": "production-2026",
           "signature": "qvpm0uzOcVdPdi8RX076lFf78PkIpNdVkaOExOlCTCGLZJZfTbeKeh-sVAIhSTtP6MvhWk-dD9AdXiAdkN-_Cw"
+        }
+      },
+      {
+        "id": "bookstack",
+        "name": "bookstack-mcp",
+        "repository": "https://github.com/kornholiox/bookstack-mcp",
+        "distribution": {
+          "kind": "artifact",
+          "digest": "26420bcc41d725818b5dc4a6ded049b4c3336e7d9f64782d4a93cc91d5a3f154",
+          "keyId": "production-2026",
+          "signature": "nRDzqCZRDLpN_RxKzfhSpSolztwOi-HZjdLsfuulmSZMetAhvaW9-reK-W-uO2iUdWWsBAJkqiY_3hhioW40Aw"
         }
       }
     ]
