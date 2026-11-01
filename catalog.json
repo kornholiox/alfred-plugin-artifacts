@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "keyId": "production-2026",
-  "signature": "wUpwM_nf1o97l7r0rQ0i0QsMIvIYyVPqjRs01Pbr5qQXun98wOQmjKsogntBzsDYrptyjI9XU0hSe5hkAMwAAw",
+  "signature": "wic-shXBtIf8fhmW12EIQ-M5YQcuutLBrRdLtpVEUguhr6PkCneydjdq3AAElNgLp4iphVMPDFQCp4A6P3zABg",
   "catalog": {
     "schemaVersion": 1,
     "plugins": [
@@ -91,6 +91,17 @@
           "digest": "26420bcc41d725818b5dc4a6ded049b4c3336e7d9f64782d4a93cc91d5a3f154",
           "keyId": "production-2026",
           "signature": "nRDzqCZRDLpN_RxKzfhSpSolztwOi-HZjdLsfuulmSZMetAhvaW9-reK-W-uO2iUdWWsBAJkqiY_3hhioW40Aw"
+        }
+      },
+      {
+        "id": "maya",
+        "name": "maya-mcp",
+        "repository": "https://github.com/kornholiox/maya-mcp",
+        "distribution": {
+          "kind": "artifact",
+          "digest": "8aa9aed451152039a4324838a26589d9005d038031a039559a964ffeaedd51e5",
+          "keyId": "production-2026",
+          "signature": "ZodEL9pttYjXIdGpO5ne9BcWR7IAllK9r9E9mbyppajCALW2YJIdzth6bdHCGKogc1j-rdxiymuWzwPMI9cPBQ"
         }
       }
     ]
