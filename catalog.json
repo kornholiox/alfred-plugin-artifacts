@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "keyId": "production-2026",
-  "signature": "5xsrG_8WKBbvn4R9Le17IeYJySU75FYmZ-J7hU9l6WRdg-piP5JoBjAq0LZP12XBBrbZseqDu2W4MhznDxJICw",
+  "signature": "aFGiyzmsmTY3NFmeItSOFdMWfHyagidqRygFQ_ypXrIny4_yCzIhJT_MZVPgYIWSwmVtFvIrq59ABQejTjD3Dw",
   "catalog": {
     "schemaVersion": 1,
     "plugins": [
@@ -113,6 +113,28 @@
           "digest": "98dff848683120a7916977aa7174efbfc8995ca493b5f0f5a821d4f0f8d07828",
           "keyId": "production-2026",
           "signature": "31sQBQcaxVvXTZHzzUinlqT2H-TL8D-Vuc4CVEUFuz_BtdNN5oeNgh_O3Z3jLPC7EMgvA-GA9Vcu8jSOBoPuDg"
+        }
+      },
+      {
+        "id": "houdini",
+        "name": "houdini-mcp",
+        "repository": "https://github.com/kornholiox/houdini-mcp",
+        "distribution": {
+          "kind": "artifact",
+          "digest": "4c06d1e7aaf015850536771f4038df9569cf2f72343ef2c6d65fc1f050c9aecf",
+          "keyId": "production-2026",
+          "signature": "qLna4dThYpICU1188vQPsClMzNlQZZeH7YR5yCXv3V1nKmj1p--SDxV2ELXNIr_Uz6CenLyPy3hYfcTRXiz8BA"
+        }
+      },
+      {
+        "id": "nuke",
+        "name": "nuke-mcp",
+        "repository": "https://github.com/kornholiox/nuke-mcp",
+        "distribution": {
+          "kind": "artifact",
+          "digest": "31f93ba708d296942780e6c209593ad40959cdce5efa8f6daeeb375f13411eee",
+          "keyId": "production-2026",
+          "signature": "f5I6MAWq0C4pMK7GGzqxx2TToJbu5t6V2zSyrnkbjq-dzGNF2ToWtal2Hd6NG1064AfUNs1tNcHcXWnidBzFAw"
         }
       }
     ]
