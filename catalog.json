@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "keyId": "production-2026",
-  "signature": "vhDP_k0weK4rt0ewijmqwUs6xxLDGknSsRZo_NvNaF4JM76AAknMTNYff22VFT3VvaoTaBeAW13AyHFvFCXxDg",
+  "signature": "b4HOaIaMJ7QuRkMC_y8BGTNS62jEYqZQx68c_1S9z8mMgPhujNbyEfFCQpYFXALUAN8j9O8GRpAP0CZMa5l5CA",
   "catalog": {
     "schemaVersion": 1,
     "plugins": [
@@ -110,9 +110,9 @@
         "repository": "https://github.com/kornholiox/rhino-mcp",
         "distribution": {
           "kind": "artifact",
-          "digest": "9a1c6e3e7cc04f7d69328ab8260bf04e0ff61a27132014bf2edb750c4c357619",
+          "digest": "5d850b63eac65d50d46b82f35d06db2ce849b4536f40e34dbdf93934b36b39a3",
           "keyId": "production-2026",
-          "signature": "ASwY8ljTGNGtb-00fiW6iHq01vSnfvX7HkMtbY4i0nhSgFJqj1SdNz7QXlFnsGO6cobn_PZqc9bt880554uHCg"
+          "signature": "b3nhWK5YuCX5F2IyGHzI3SNwsk5zcGhMENbXhla9DyJv1g0vdLAQ4GbSNoczZzWJPU-4qVqEakPOXagHY5NYCA"
         }
       },
       {
