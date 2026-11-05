@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "keyId": "production-2026",
-  "signature": "Weji-gASFVYj1N8FlO1tOGp_8FkL3_712zrvsjepeCzHabBYL_bOBrjpVCzYR18r43hRW31GD1tMyOeS6jhmAA",
+  "signature": "wvpGqy6UzbJwcZ_BaYBEnzucHYpcGjYs3dPN5kSLPhKLvdvhM8vJAMYpMuARYaWmPkjaeVXDxwiA2vJyJC8qCw",
   "catalog": {
     "schemaVersion": 1,
     "plugins": [
@@ -132,9 +132,9 @@
         "repository": "https://github.com/kornholiox/nuke-mcp",
         "distribution": {
           "kind": "artifact",
-          "digest": "7ace5903b351b104fa0ce4ff58724ddf31d8ddb789cf3d21fa238fed1fb76091",
+          "digest": "20d311cc92aeca7d6b580a66043d3257e1c9c6e4e72de21c53688c8b0da925ef",
           "keyId": "production-2026",
-          "signature": "cG7VdXlcYmLRIQLjTNuM8bM4Ybu8cq-vgZ2GaDzP2JwHIHx-g0RzzsZVw02A2W7rY8IDpaR--AnGQcjZYYiCAQ"
+          "signature": "9RiuNNr0sRkX9GpIo5Z4qLeYzGh-m4MXHJ7UNc0b8DxVkTA_skHRTDt9osiG_W43NVRV3FjD-OPJWxMYDgJ0Cg"
         }
       }
     ]
