@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "keyId": "production-2026",
-  "signature": "oPLZ5eEboca06YIojpnqu2Wv6TP1jyvD9dZtL1ncahhjbupmlSz0bmFxKNlMUN-B86s06nw3LNTiER9UPCs6AA",
+  "signature": "Weji-gASFVYj1N8FlO1tOGp_8FkL3_712zrvsjepeCzHabBYL_bOBrjpVCzYR18r43hRW31GD1tMyOeS6jhmAA",
   "catalog": {
     "schemaVersion": 1,
     "plugins": [
@@ -121,9 +121,9 @@
         "repository": "https://github.com/kornholiox/houdini-mcp",
         "distribution": {
           "kind": "artifact",
-          "digest": "cac98e3e8a4c3ae0b32f0bc5a2656d2a4c5ef5d1a00f2237e5d42fc311223c89",
+          "digest": "3245313e34814a010d6592c78afc3f25c7c77ef8fe72b512ce891c3be45125a8",
           "keyId": "production-2026",
-          "signature": "jw6y6WHtfyZDlMpA-VLA6XehAZj9118PsJmbDwyYRtQnuHTrs28qUXsDY-6Z7RQLVGl2NhCVSNNW2TWCSdpzDw"
+          "signature": "I5jOOQqRgy8Q4K1avFNx7pHU5HliJ3RnoJploQ8a1SdjOhZQA6DqwPEnBvJQIlEuyu1PMKryinK4IpTm63zpAQ"
         }
       },
       {
