@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "keyId": "production-2026",
-  "signature": "wvpGqy6UzbJwcZ_BaYBEnzucHYpcGjYs3dPN5kSLPhKLvdvhM8vJAMYpMuARYaWmPkjaeVXDxwiA2vJyJC8qCw",
+  "signature": "5yGf9ACxXpuTNrYlOxR2TcxmySmAjJe60hu0TilnHuiRQtxZVRe1D0_1VzBQ0Tuqw6kJ1cYR8syEWF3V4RIsBg",
   "catalog": {
     "schemaVersion": 1,
     "plugins": [
@@ -135,6 +135,17 @@
           "digest": "20d311cc92aeca7d6b580a66043d3257e1c9c6e4e72de21c53688c8b0da925ef",
           "keyId": "production-2026",
           "signature": "9RiuNNr0sRkX9GpIo5Z4qLeYzGh-m4MXHJ7UNc0b8DxVkTA_skHRTDt9osiG_W43NVRV3FjD-OPJWxMYDgJ0Cg"
+        }
+      },
+      {
+        "id": "deadline",
+        "name": "deadline-mcp",
+        "repository": "https://github.com/kornholiox/deadline-mcp",
+        "distribution": {
+          "kind": "artifact",
+          "digest": "f076898ba03f7ff6d1a790c869352270b22e5a388077bc55d72fd45631779863",
+          "keyId": "production-2026",
+          "signature": "COY9ssVKVeUTcazo3CIB67HfPbgzyMc-TpAHRfhjKO9lAIRaoFcs5r65HyGfpRhsx5E_otSunXq-SV6ujiBSCQ"
         }
       }
     ]
