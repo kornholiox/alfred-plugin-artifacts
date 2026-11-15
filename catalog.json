@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "keyId": "production-2026",
-  "signature": "xTRKWEErCV2t_ItvdWo-jtmdS0ja32Aih4VQCv6qZrmuxOinp0Yvet6h0X8B51xWa3Lpknvvqr3I5k-SEM99CA",
+  "signature": "OWP3cYa_q2-xs80vTqaST17egh2HpO_RP9i4-UuFJh2lJWuO9nvchos45FeRuxNdzwbrVgrp2B_zBaN1NpUDCw",
   "catalog": {
     "schemaVersion": 1,
-    "serial": 1,
+    "serial": 2,
     "plugins": [
       {
         "id": "unreal",
@@ -57,8 +57,8 @@
         "distribution": {
           "kind": "artifact",
           "digest": "1cd21cf577467c231f2ebe89b984ab9267ea0076854bc003e8655c69c9ad3609",
-          "keyId": "unreal-2026",
-          "signature": "6AT17f9w5ROx_VnAO5IOtjMtqRJBgZNTQd28GCLFTb_qiCjCn5NZxhgmH54t0qHjiJ6YkhAUzyuGufsbZjHFBQ"
+          "keyId": "production-2026",
+          "signature": "PTbjABYR1OPNvpNBSEWNs-rvvgThPgP0d2HwCKiTF66S2XTvMBplNuRCECcLrxs6zhOkdLljBT-_We0tEfLEDA"
         }
       },
       {
@@ -68,8 +68,8 @@
         "distribution": {
           "kind": "artifact",
           "digest": "7708b5019c4a8412c92de90b68177fc3943904182a997125881e1f4128f3a309",
-          "keyId": "unreal-2026",
-          "signature": "o5B_96jcifr9LRz0RMKMWNX37c_OqMiScGc7KMhIM7aFBf8KaJaPYo1ri23Vuo9Hvtu3rFDD9HzWbW50sRybAA"
+          "keyId": "production-2026",
+          "signature": "If5CxdZKsLIpAKQ1BQVwZJeBtnLQxe5w1orq7aJeV1Xo2--MXMqOrIDmYoy5CamOykJyLqQV6QFdlXalJEYrAg"
         }
       },
       {
