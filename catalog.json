@@ -1,9 +1,10 @@
 {
   "schemaVersion": 1,
   "keyId": "production-2026",
-  "signature": "IYuK9dC-tGXTBEBg1bOTlPvE7vrRwdpp7XTXgRuw86H4JWf25o84QRkHxm2VW8u2fQRrXVj7YH5vRv07khePDw",
+  "signature": "xTRKWEErCV2t_ItvdWo-jtmdS0ja32Aih4VQCv6qZrmuxOinp0Yvet6h0X8B51xWa3Lpknvvqr3I5k-SEM99CA",
   "catalog": {
     "schemaVersion": 1,
+    "serial": 1,
     "plugins": [
       {
         "id": "unreal",
